@@ -6,7 +6,7 @@ A simple and efficient web scraper built with Go and the **Colly** framework to 
 
 - 🎵 **Genre-based Discovery**: Search for albums by any music genre
 - 📊 **Detailed Information**: Extracts album names, artists, URLs, and release years
-- 🛡️ **Error Handling**: Robust error handling for HTTP requests
+- 🛡️ **Error Handling**: Simple, but eficient error handling for HTTP requests
 - 🚀 **Fast & Lightweight**: Built with Go's performance and Colly's efficiency
 
 ## Quick Start
