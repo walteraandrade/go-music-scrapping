@@ -9,3 +9,4 @@ Next planned steps:
 1 - Make it capable to handle infinite scrolling;
 2 - Make it receive the genre from the cli;
 3 - Make it use more than one source.
+4 - Make it run as a server and have a Svelte frontend to display it.
